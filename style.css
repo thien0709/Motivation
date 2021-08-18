@@ -1,30 +1,30 @@
 @font-face {
   font-family: "1Cham6LaTrogChu-UTM Conestoga";
-  src: url("/assets/font/1Cham6LaTrogChu-UTM\ Conestoga.ttf") format("truetype");
+  src: url("font/1Cham6LaTrogChu-UTM\ Conestoga.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: "0156-LNTH-Briarwood";
-  src: url("/assets/font/CharmingExpanded.ttf") format("truetype");
+  src: url("font/CharmingExpanded.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: "Consolas";
-  src: url("/assets/font/SVN-Top\ Secret.ttf") format("truetype");
+  src: url("font/SVN-Top\ Secret.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: "SVN-Kashima\ Brush";
-  src: url("/assets/font/Stringfellows.ttf") format("truetype");
+  src: url("font/Stringfellows.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 html,
 body {
-	background-image: url("/assets/img/forest.jpeg");
+	background-image: url("img/forest.jpeg");
 	background-size: 100%;
 	width: 100%;
 	height: 100%;
